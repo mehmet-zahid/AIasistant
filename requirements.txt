@@ -1,0 +1,4 @@
+#selenium-stealth
+undetected_chromedriver
+sounddevice
+openai-whisper
